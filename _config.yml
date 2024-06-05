@@ -40,13 +40,10 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: your_full_name
   links:
-    # The first element serves as the copyright owner's link
     -https://instagram.com/amazing_kitsune
-    
-    - https://twitter.com/amazing_kitsune
-    # change to your twitter homepage
-    - https://github.com/amazingkit # change to your github homepage
-    -
+    # The first element serves as the copyright owner's link
+    - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
