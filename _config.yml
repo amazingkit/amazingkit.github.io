@@ -14,7 +14,8 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: kit's blog # the main title
+title: my blog
+# the main title
 
 tagline: ⋆｡˚ (¦3ꇤ[▓▓]⋆｡˚✩
 # it will display as the sub-title
@@ -38,12 +39,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: kit
+  name: amazingkit
   links:
-    -https://instagram.com/amazing_kitsune
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    -https://instagram.com/amazing_kitsune
+    - https://twitter.com/amazing_kitusne # change to your twitter homepage
+    - https://github.com/amazingkit # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
