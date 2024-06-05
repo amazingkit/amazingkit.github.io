@@ -38,16 +38,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Kit
   links:
-    -https://instagram.com/amazing_kitsune
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://instagram.com/amazing_kitune #instagram
+    - https://twitter.com/amazing_kitsune # change to your twitter homepage
+    - https://github.com/amazngkit # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-
+    #- https://www.facebook.com/
+    #- https://www.linkedin.com/
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
