@@ -2,12 +2,15 @@
 
 - type: github
   icon: "fab fa-github"
+  link: "https://github.com/amazingkit"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  link: "https://twitter.com/amazing_kitsune"
 
 - type: instagram
   icon: "fab fa-instagram"
+  link: "https://instagram.com/amazing_kitsune"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
